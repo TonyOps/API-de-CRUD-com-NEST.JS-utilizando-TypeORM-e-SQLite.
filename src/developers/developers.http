@@ -1,0 +1,26 @@
+### list developers
+GET http://localhost:3000/developers/dev_hNBKLbW_33Em5iS4xJrb7
+
+### get developer
+GET http://localhost:3000/developers/
+
+### create developer
+POST http://localhost:3000/developers
+Content-Type: application/json
+
+{
+    "name": "Antoniel De Melo",
+    "email": "contato@antoniel.dev",
+    "dateOfBirth": "1993-01-01"
+}
+
+### update developer
+PATCH http://localhost:3000/developers/dev_hNBKLbW_33Em5iS4xJrb7
+Content-Type: application/json
+
+{
+    "email": "contato@antoniel.dev"
+}
+
+### delete developer
+DELETE http://localhost:3000/developers/dev_hNBKLbW_33Em5iS4xJrb7
