@@ -30,6 +30,8 @@ API CRUD com NEST.JS, utilizando TypeORM e SQLite.
 
 ```bash
 $ npm install
+AND
+npm i nanoid@3 sqlite3 typeorm @nestjs/typeorm class-validator class-transformer  
 ```
 
 ## Running the app
