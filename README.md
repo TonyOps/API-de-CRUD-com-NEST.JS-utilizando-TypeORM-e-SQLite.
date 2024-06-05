@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+API de CRUD com NEST.JS, utilizando TypeORM e SQLite.
 
 ## Installation
 
