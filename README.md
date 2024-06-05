@@ -24,7 +24,7 @@
 
 ## Description
 
-API de CRUD com NEST.JS, utilizando TypeORM e SQLite.
+API CRUD com NEST.JS, utilizando TypeORM e SQLite.
 
 ## Installation
 
